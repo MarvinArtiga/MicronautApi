@@ -1,0 +1,12 @@
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\example.micronaut.model.$BookInfoTest$Definition
+example\micronaut\$DefaultTest$Definition$Exec.class
+example\micronaut\controller\$BooksControllerTest$Definition$Exec.class
+example\micronaut\model\$BookAvailabilityTest$Definition$Exec.class
+example\micronaut\$DefaultTest$Definition.class
+example\micronaut\model\$BookInfoTest$Definition.class
+example\micronaut\model\$BookAvailabilityTest$Definition.class
+example\micronaut\model\$BookInfoTest$Definition$Exec.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\example.micronaut.$DefaultTest$Definition
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\example.micronaut.controller.$BooksControllerTest$Definition
+example\micronaut\controller\$BooksControllerTest$Definition.class
+META-INF\micronaut\io.micronaut.inject.BeanDefinitionReference\example.micronaut.model.$BookAvailabilityTest$Definition

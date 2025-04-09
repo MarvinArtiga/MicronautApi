@@ -1,0 +1,8 @@
+.openapi-generator-ignore
+src/main/java/micronaut/example/api/BooksApi.java
+src/main/java/micronaut/example/model/BookAvailability.java
+src/main/java/micronaut/example/model/BookInfo.java
+src/main/resources/application.yml
+src/main/resources/application.yml
+src/main/resources/logback.xml
+src/main/resources/logback.xml
